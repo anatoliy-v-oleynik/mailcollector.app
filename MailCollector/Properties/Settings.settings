@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MailCollector.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SaveFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\</Value>
+    </Setting>
+    <Setting Name="SelectMailbox" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Входящие</Value>
+    </Setting>
+    <Setting Name="MailServerUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">imap.mail.ru</Value>
+    </Setting>
+    <Setting Name="MailServerPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">993</Value>
+    </Setting>
+    <Setting Name="MailServerUseSSL" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MailServerPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">9KRehV4XGtvMV3tV646s</Value>
+    </Setting>
+    <Setting Name="MailServerLogin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">uks-murmansk@mail.ru</Value>
+    </Setting>
+    <Setting Name="LastDateTime" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2023-02-15</Value>
+    </Setting>
+    <Setting Name="MainFormWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">800</Value>
+    </Setting>
+    <Setting Name="MainFormHeight" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">600</Value>
+    </Setting>
+    <Setting Name="MainFormWindowState" Type="System.Windows.Forms.FormWindowState" Scope="User">
+      <Value Profile="(Default)">Normal</Value>
+    </Setting>
+    <Setting Name="ActionsDetailPanelCollapse" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MessageViewerPannelCollapsed" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="MessageViewerSplitterDistance" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+    <Setting Name="messageAutoMark" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

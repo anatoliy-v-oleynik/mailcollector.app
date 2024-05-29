@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailCollector", "MailCollector.csproj", "{84F98BA1-2CDF-41DC-A2B0-0581488CC69F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AE.Net.Mail", "..\aenetmail-master\AE.Net.Mail.csproj", "{68E9CF8C-AB54-4CC7-A34F-C7F469E4EFE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84F98BA1-2CDF-41DC-A2B0-0581488CC69F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F98BA1-2CDF-41DC-A2B0-0581488CC69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F98BA1-2CDF-41DC-A2B0-0581488CC69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F98BA1-2CDF-41DC-A2B0-0581488CC69F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68E9CF8C-AB54-4CC7-A34F-C7F469E4EFE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68E9CF8C-AB54-4CC7-A34F-C7F469E4EFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68E9CF8C-AB54-4CC7-A34F-C7F469E4EFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68E9CF8C-AB54-4CC7-A34F-C7F469E4EFE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1204F0DE-348E-492A-96B3-A3DCD3DC3D04}
+	EndGlobalSection
+EndGlobal
